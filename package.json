@@ -1,0 +1,19 @@
+{
+  "name": "cypress-intro",
+  "version": "1.0.0",
+  "description": "cypress testing",
+  "main": "index.js",
+  "scripts": {
+    "open": "npx cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "testing"
+  ],
+  "author": "Piotr Ranosz",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.5.1"
+  }
+}
